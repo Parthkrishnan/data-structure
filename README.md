@@ -1,12 +1,17 @@
-# data-structure
+# data-structure in c
+
 
 #include<stdio.h>
 #include<stdlib.h>
 
 void create();
+
 void display();
+
 void deleteAtBeg();
+
 void deleteAtMid();
+
 void deleteAtLast();
 
  struct node 
