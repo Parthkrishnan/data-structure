@@ -1,4 +1,4 @@
-# data-structure in c
+# data-structure with c
 
 
 #include<stdio.h>
